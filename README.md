@@ -42,12 +42,18 @@ Bu Java tabanlı araç satış otomasyonu sistemi, kullanıcı kaydı, araç ila
 
 ---
 
-![Araç Satış Otomasyonu Sistemi Görselleri]
+# Araç Satış Otomasyonu Sistemi Görselleri
 
 ![Ekran görüntüsü 2025-01-04 181014](https://github.com/user-attachments/assets/e5ff9ddc-8295-40a5-bbe2-54553f74d255)
+
 ![Ekran görüntüsü 2025-01-04 181019](https://github.com/user-attachments/assets/880cba37-9243-49ac-8857-31b380686161)
+
 ![Ekran görüntüsü 2025-01-04 181025](https://github.com/user-attachments/assets/32f49be8-c982-44e1-b7ee-d1c5bb917fb9)
+
 ![Ekran görüntüsü 2025-01-04 181033](https://github.com/user-attachments/assets/aad73ef8-68b7-43f1-a43e-6e738be3cb0d)
+
 ![Ekran görüntüsü 2025-01-04 181038](https://github.com/user-attachments/assets/0f621f3f-af62-4bf5-8748-e4befb58454a)
+
 ![Ekran görüntüsü 2025-01-04 181045](https://github.com/user-attachments/assets/0a064194-aeef-4636-b090-65a28b4704dc)
+
 
